@@ -18,10 +18,11 @@ npx expo start
 
 <img src="https://github.com/RizwanSabir/react-native-form-hook-firebase/assets/125357675/b7763b3b-5cb9-4b90-b176-3a13b6d987d9" width="300" alt="Screenshot_1711288644">
 
-Error Handling in Sign U page using React-Hook-Form
+Error Handling in Sign Up page using React-Hook-Form
 
 **Error handling in Sign Up :**
 
 <img src="https://github.com/RizwanSabir/react-native-form-hook-firebase/assets/125357675/a3f46cb7-9642-4849-8a2c-e0c850025b32" width="300" alt="Screenshot_1711288644">
 
+<img  src="https://github.com/RizwanSabir/react-native-form-hook-firebase/assets/125357675/bf87c0ea-a687-47b6-a00a-cccbea9a54b6" width="300"  >
 
